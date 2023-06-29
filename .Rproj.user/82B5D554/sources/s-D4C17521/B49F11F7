@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1687546743305.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B49F11F7",
+    "lastKnownWriteTime" : 1687549526,
+    "last_content_update" : 1687549526069,
+    "path" : "D:/Research_2/Cicero/page2.R",
+    "project_path" : "page2.R",
+    "properties" : {
+        "cursorPosition" : "22,50",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

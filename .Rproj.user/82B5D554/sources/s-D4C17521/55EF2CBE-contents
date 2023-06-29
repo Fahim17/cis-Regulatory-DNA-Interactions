@@ -1,0 +1,7 @@
+data_path = 'D:\\Research_2\\Cicero\\data\\GSE109828_54_1_bulk_multi_cov_counts.txt.gz'
+# depending on internet connection:
+temp <- textConnection(readLines(data_path))
+
+# read in the data
+cicero_data <- read.table(temp)
+

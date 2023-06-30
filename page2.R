@@ -16,7 +16,7 @@ gene_anno$transcript <- gene_anno$transcript_id
 gene_anno$symbol <- gene_anno$gene_name
 
 
-plot_connections(conns, "chr2", 9773451, 9848598,
+plot_connections(conns, "chr2", 9073451, 9948598,
                  gene_model = gene_anno, 
                  coaccess_cutoff = .25, 
                  connection_width = .5, 

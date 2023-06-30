@@ -11,8 +11,12 @@
 
 
 # Code to download (54M) and unzip the file - can take a couple minutes
-data_path = 'D:\\Research_2\\Cicero\\data\\kidney_data.txt.gz'
+# data_path = 'D:\\Research_2\\Cicero\\data\\kidney_data.txt.gz'
+
 # data_path = 'D:\\Research_2\\Cicero\\data\\GSE109828_54_1_bulk_multi_cov_counts.txt.gz'
+
+data_path = 'D:\\Research_2\\Cicero\\data\\GSM2970930_sciATAC_HSMM1_counts.txt.gz'
+
 # depending on internet connection:
 temp <- textConnection(readLines(data_path))
 
